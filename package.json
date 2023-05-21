@@ -1,0 +1,22 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "The Singleton pattern is useful when you want to ensure that only one instance of a class is created and can be easily accessed throughout the application. It can also be used to control access to shared resources, such as a database connection, to prevent conflicts or data corruption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasedfc/js-patterns.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Lucas Heim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasedfc/js-patterns/issues"
+  },
+  "homepage": "https://github.com/lucasedfc/js-patterns#readme"
+}
